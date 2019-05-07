@@ -1,5 +1,7 @@
 
+dtd-r1.0.1.tar.gz
 dtd/*
+dtd_val/*
 dtd_train/*
 dtd_test/*
 
